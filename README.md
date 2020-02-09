@@ -1,0 +1,2 @@
+# .github
+Support for community
