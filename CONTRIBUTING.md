@@ -20,6 +20,9 @@ All checks (automated tests) are required before merging.
 
 Code for automated tests maybe placed in `.github/workflows`.
 
+
+Fill in the pull request template, so it's easier to see the summary of the issue and a brief explanation of how it's fixed, and other information which maybe useful for future reference.
+
 ### Code style ###
 
 Please, use [Code style suggested for NVDA](https://github.com/nvaccess/nvda/wiki/Contributing).
