@@ -22,6 +22,5 @@ body:
     attributes:
       label: STR
       description: Steps to reproduce the behavior:
-      placeholder: List of steps to reproduce the bug
     validations:
       required: true
