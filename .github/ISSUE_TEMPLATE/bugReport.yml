@@ -9,11 +9,19 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: textarea
+  - type: input
     id: what-happened
     attributes:
       label: Summary
       description: A clear and concise description of what the bug is.
-      placeholder: This product crashes at startup
+      placeholder: Sumary of the bug
     validations:
       required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: To reproduce
+      description: Steps to reproduce the behavior:
+      placeholder: |
+        1. Step 1.
+        2. Step 2.
