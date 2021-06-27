@@ -41,6 +41,8 @@ body:
     label: Relevant log output
     description: If applicable, copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
     render: shell
+  validations:
+    required: false
 - type: input
   id: version
   attributes:
@@ -53,7 +55,7 @@ body:
   id: system
   attributes:
     label: System configuration
-    description: Other relevant software or settings: 
+    description: Other relevant software or settings.
     placeholder: Program x with y settings
   validations:
     required: false
