@@ -20,3 +20,6 @@ body:
 - type: textarea
   attributes:
     label: To reproduce
+    description: Steps to reproduce the behavior:
+  validations:
+    required: true
