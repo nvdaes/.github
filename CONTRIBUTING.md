@@ -6,11 +6,11 @@ Here are some guidelines which may help you to make useful contributions, making
 
 ## Report bugs ##
 
-Comment on an existing issue or, if your bug is not listed there, create a new one, filling the [bug report template](https://github.com/nvdaes/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
+Comment on an existing issue or, if your bug is not listed there, create a new one, filling the [bug report template](https://github.com/nvdaes/.github/blob/master/.github/ISSUE_TEMPLATE/bugReport.yml).
 
 ## Request a feature ##
 
-Comment on an existing issue or, if the feature you want is not requested, create a new one, filling the [feature request template](https://github.com/nvdaes/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md).
+Comment on an existing issue or, if the feature you want is not requested, create a new one, filling the [feature request template](https://github.com/nvdaes/.github/blob/master/.github/ISSUE_TEMPLATE/featureRequest.yml).
 
 ## Send pull requests ##
 
