@@ -20,6 +20,8 @@ body:
   - type: textarea
     id: repro
     attributes:
-      label: To reproduce
+      label: STR
       description: Steps to reproduce the behavior:
       placeholder: List of steps to reproduce the bug
+    validations:
+      required: true
