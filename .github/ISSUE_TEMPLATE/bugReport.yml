@@ -12,7 +12,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: Describe the bug
+      label: Summary
       description: A clear and concise description of what the bug is.
       placeholder: This product crashes at startup
     validations:
