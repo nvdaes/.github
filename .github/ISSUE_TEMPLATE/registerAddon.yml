@@ -17,3 +17,11 @@ body:
     placeholder: addonName
   validations:
     required: true
+- type: input
+  id: addon-maintainer
+  attributes:
+    label: Add-on maintainer
+    description: @mention GitHub user account of add-on maintainer.
+    placeholder: "@nvdaAddonMaintainer"
+  validations:
+    required: true
