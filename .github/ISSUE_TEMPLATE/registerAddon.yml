@@ -22,7 +22,7 @@ body:
   attributes:
     label: Add-on maintainer
     description: @mention GitHub user account of add-on maintainer.
-    placeholder: @nvdaAddonMaintainer
+    placeholder: "@nvdaAddonMaintainer"
   validations:
     required: true
 - type: input
