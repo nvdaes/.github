@@ -40,5 +40,4 @@ body:
     description: Check that stable branch exist in the provided repository.
     options:
       - label: Stable branch exists in add-on repo
-  validations:
-    required: true
+        required: true
